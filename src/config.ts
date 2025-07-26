@@ -58,16 +58,14 @@ export const profileConfig: ProfileConfig = {
 	bio: "万语难尽涩于口 祈尔繁芜胜长春",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			name: "Wechat",
+			icon: "tabler:brand-wechat",
+			url: "https://cloudpaste-backend.juicy233.dpdns.org/api/file-view/AmOciS",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Bilibili",
+			icon: "simple-icons:bilibili",
+			url: "https://space.bilibili.com/1853412400",
 		},
 		{
 			name: "GitHub",
