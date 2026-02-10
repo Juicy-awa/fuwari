@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Wechat",
 			icon: "tabler:brand-wechat",
-			url: "https://cloudpaste.528ab038514f3b3461ae62fd0393caf4.r2.cloudflarestorage.com/IMG_1344.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=6fff91ed3040f6f8400a9ade4a751f15%2F20260210%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260210T053050Z&X-Amz-Expires=3600&X-Amz-Signature=0c3a32540ccb6e57d8b4ae35e331a8b8254c06271938dc47d468227d389f3e80&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22IMG_1344.jpeg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+			url: "https://files.077221.xyz/file/wechat",
 		},
 		{
 			name: "Bilibili",
